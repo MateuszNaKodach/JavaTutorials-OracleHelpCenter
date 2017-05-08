@@ -1,0 +1,11 @@
+https://docs.oracle.com/javase/tutorial/java/generics/index.html
+
+Generics tutorial: https://docs.oracle.com/javase/tutorial/extra/generics/index.html
+
+Do doczytania od tego miejsca:
+
+https://docs.oracle.com/javase/tutorial/java/generics/wildcardGuidelines.html
+
+Packages - koniec:
+
+https://docs.oracle.com/javase/tutorial/java/package/usepkgs.html

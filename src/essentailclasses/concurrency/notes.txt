@@ -1,0 +1,8 @@
+Concurrency tutorials:
+https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
+
+https://www.google.pl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=proces%20i%20w%C4%85tek%20r%C3%B3%C5%BCnice
+
+koniec:
+
+https://docs.oracle.com/javase/tutorial/essential/concurrency/guardmeth.html
